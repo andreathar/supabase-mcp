@@ -26,14 +26,14 @@
     }
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.4.1",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@supabase/mcp-utils": "*",
     "@supabase/sql-to-rest": "^0.1.6",
     "zod": "^3.24.1",
     "zod-to-json-schema": "^3.24.1"
   },
   "devDependencies": {
-    "@supabase/auth-js": "^2.67.3",
+    "@supabase/auth-js": "^2.69.1",
     "@total-typescript/tsconfig": "^1.0.4",
     "@types/node": "^22.8.6",
     "prettier": "^3.3.3",
